@@ -21,10 +21,12 @@ url : https://api-izh32am73q-uc.a.run.app
 - firestore 이용
 - rest API 구현 (CRUD를 하나의 주소로 관리/메소드를 다르게 적 + 로그인 기능)
 
-* (예시) GET
+
+
+#### (예시) GET
 
   
-   ![image](https://github.com/gmlwndla97/firebase-study/assets/37864097/2106b3d4-3693-4876-8202-df3fa3b40c26)
+![image](https://github.com/gmlwndla97/firebase-study/assets/37864097/2106b3d4-3693-4876-8202-df3fa3b40c26)
 
   
 
